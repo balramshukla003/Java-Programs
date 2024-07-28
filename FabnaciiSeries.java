@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class FabnaciiSeries{
     public static void main(String[] args) {
 
         Scanner sc =new Scanner(System.in);
