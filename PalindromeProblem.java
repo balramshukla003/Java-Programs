@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PALINDROME {
+public class PalindromeProblem {
     public static void main(String[] args) {
 
         String S, N = "";
